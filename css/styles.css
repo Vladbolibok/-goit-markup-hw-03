@@ -254,7 +254,9 @@ height: 600px; */
   background-color: #f4f4fd;
   padding: 120px 0;
 }
-
+.text-box-element {
+  width: calc((100% - 72px) / 4);
+}
 .team {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
